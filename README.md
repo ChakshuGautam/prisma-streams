@@ -4,6 +4,7 @@ Streaming API for querying data using prisma. Inspired by [this](https://github.
 
 ### TODO
 
+- [ ] Error Handling
 - [ ] Add RxJs support
 - [ ] Add Tests
 - [ ] Add examples
